@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/7Murari/LeetCode-By-Murari/tree/master/0058-length-of-last-word) |
+| [0387-first-unique-character-in-a-string](https://github.com/7Murari/LeetCode-By-Murari/tree/master/0387-first-unique-character-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -20,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/7Murari/LeetCode-By-Murari/tree/master/0258-add-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/7Murari/LeetCode-By-Murari/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/7Murari/LeetCode-By-Murari/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/7Murari/LeetCode-By-Murari/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
